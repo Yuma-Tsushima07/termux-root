@@ -5,7 +5,7 @@ Termux is a linux emulator for andriod users.
 
 ## Install
 ```
-git clone https://github.com/Yuma-Tsushima07/termux-root
+git clone https://github.com/Yuma-Tsushima07/termux-root.git
 pkg install ncurses-utils
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
 chmod 700 /data/data/com.termux/files/usr/bin/sudo
