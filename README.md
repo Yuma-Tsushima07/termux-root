@@ -11,5 +11,5 @@ cat sudo > /data/data/com.termux/files/usr/bin/sudo
 chmod 700 /data/data/com.termux/files/usr/bin/sudo
 ```
 ## Inpiration 
-https://github.com/cswl/tsu
-https://gist.github.com/cswl/cd13971e644dc5ced7b2
+ * https://github.com/cswl/tsu
+ * https://gist.github.com/cswl/cd13971e644dc5ced7b2
